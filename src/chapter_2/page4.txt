@@ -1,2 +1,4 @@
 This is page 4 under chapter 2
-edited from github
+edited from GitHub
+
+This is the local changes for page 4
